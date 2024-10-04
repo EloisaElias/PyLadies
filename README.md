@@ -17,7 +17,7 @@
 
 
 ---
-## Eloisa Elias T 
+## Eloisa Elias T - PyLadie Seattle Chair
 ### Data Scientist • Six Sigma • Open Source AI • Women Techmakers Ambassador
 
 Advanced statistics and optimization. Six Sigma certified, 8+ years of experience improving KPIs at Fortune 500 companies @eloeliasds

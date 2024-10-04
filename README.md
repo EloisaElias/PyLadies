@@ -1,7 +1,7 @@
 # PyLadies Seattle
 
 
-## Learning Circles + Book Club 2024
+## 2024 Learning Circles + Book Club 
 
 
 #### Oct 2
